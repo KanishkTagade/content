@@ -138,6 +138,7 @@ app.use(frameguard({ action: 'SAMEORIGIN' }))
 
 ## See also
 
+- [Clickjacking](/en-us/Glossary/Clickjacking)
 - {{HTTPHeader("Content-Security-Policy")}} directive {{HTTPHeader("Content-Security-Policy/frame-ancestors", "frame-ancestors")}}
 - [HTTP Header Field X-Frame-Options - RFC 7034](https://datatracker.ietf.org/doc/html/rfc7034)
 - [ClickJacking Defenses - IEBlog](https://docs.microsoft.com/en-us/archive/blogs/ie/ie8-security-part-vii-clickjacking-defenses)
